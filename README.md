@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+```
+GitHub is：
+ 代码托管平台 ❌
+ 同性交友平台  ✔
+```
