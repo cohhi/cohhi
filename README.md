@@ -22,3 +22,14 @@ GitHub is：
 ```
 
 <a href=#><img src="contributions.svg"></a>
+
+
+```
+
+public class main{
+	public static void main(String[] args){
+        System.out.println("鸡你太美🐔")
+    }
+}
+
+```
