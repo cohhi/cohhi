@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
  -->
 - 🔭 I’m currently working on Python,Web
-- 🌱 I’m currently learning Vue
+- 🌱 I’m currently learning Vue and 微信小程序开发
 <!-- - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
