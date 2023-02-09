@@ -23,7 +23,7 @@ GitHub is：
 
 <a href=#><img src="contributions.svg"></a>
 <img src="https://img.shields.io/github/followers/steam-404?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917&cacheSeconds=36"></img>
-
+<img src="https://img.shields.io/badge/%E9%B8%A1%E4%BD%A0-%E5%A4%AA%E7%BE%8E-blue"></img>
 
 ```
 
