@@ -23,7 +23,7 @@ GitHub is：
  ```
  <div>
     <a href="https://411.free.svipss.top/"> 
-       <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);早安,章鱼哥!&center=true&size=27"> 
+       <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(ikun);哎呦,你干嘛!&center=true&size=27"> 
     </a>
  </div>
 ![](https://raw.githubusercontent.com/steam-404/steam-404/main/assets/github-contribution-grid-snake.svg)
