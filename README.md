@@ -21,6 +21,11 @@ GitHub is：
  同性交友平台  ✔
  
  ```
+ <div>
+    <a href="https://411.free.svipss.top/"> 
+       <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);早安,章鱼哥!&center=true&size=27"> 
+    </a>
+ </div>
 ![](https://raw.githubusercontent.com/steam-404/steam-404/main/assets/github-contribution-grid-snake.svg)
 
  <img src="https://github-readme-stats.vercel.app/api?username=steam-404&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn"></img>
@@ -48,6 +53,5 @@ public class main{
 <div>
    <img src="https://metrics.lecoq.io/steam-404?template=classic&config.timezone=Asia%2FShanghai">
    <img src="https://github-profile-trophy.vercel.app/?username=steam-404" />
-   <img src="https://activity-graph.herokuapp.com/graph?username=steam-404&theme=xcode" />
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=steam-404" />
 </div>
