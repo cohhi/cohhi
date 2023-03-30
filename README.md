@@ -48,4 +48,5 @@ public class main{
 <div>
    <img src="https://metrics.lecoq.io/steam-404?template=classic&config.timezone=Asia%2FShanghai">
    <img src="https://github-profile-trophy.vercel.app/?username=steam-404" />
+   <img src="https://activity-graph.herokuapp.com/graph?username=steam-404&theme=xcode" />
 </div>
