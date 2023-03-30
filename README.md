@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 ```
-GitHub is：
- 代码托管平台 ❌
- 同性交友平台  ✔
- 
- ```
+public class main{
+    public static void main(String[] args){
+        System.out.println("鸡你太美🐔")
+    }
+}
+```
  <div>
     <a href="https://411.free.svipss.top/"> 
        <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(ikun);哎呦,你干嘛!&center=true&size=27"> 
@@ -32,22 +33,13 @@ GitHub is：
 
 
 
-![]("SB.gif")
-<img src="contributions.svg">
 <img src="https://img.shields.io/github/followers/steam-404?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917&cacheSeconds=36">
 <img src="https://img.shields.io/badge/%E9%B8%A1%E4%BD%A0-%E5%A4%AA%E7%BE%8E-blue">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=steam-404">
 
 
 
-```
-public class main{
-    public static void main(String[] args){
-        System.out.println("鸡你太美🐔")
-    }
-}
 
-```
 
 <div>
    <img src="https://metrics.lecoq.io/steam-404?template=classic&config.timezone=Asia%2FShanghai">
