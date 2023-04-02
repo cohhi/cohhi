@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-#### Good morning,Patrick Star
-#### Good morning,Squidward Tentacles
+#### Good morning,Patrick Star :smile:
+#### Good morning,Squidward Tentacles :smile:
 <!-- **steam-404/steam-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
