@@ -46,3 +46,5 @@ public class main{
    <img src="https://github-profile-trophy.vercel.app/?username=steam-404" />
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=steam-404" />
 </div>
+
+![Snake animation](https://github.com/steam-404/steam-404/blob/output/github-contribution-grid-snake.svg)
