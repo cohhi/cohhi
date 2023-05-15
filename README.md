@@ -36,7 +36,7 @@ public class main{
 <img src="https://img.shields.io/github/followers/steam-404?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917&cacheSeconds=36">
 <img src="https://img.shields.io/badge/%E9%B8%A1%E4%BD%A0-%E5%A4%AA%E7%BE%8E-blue">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=steam-404">
-[![wakatime](https://wakatime.com/badge/user/78550dca-4a74-4d83-a3bd-28b964bd4a2c.svg)](https://wakatime.com/@78550dca-4a74-4d83-a3bd-28b964bd4a2c)
+<img src="https://wakatime.com/badge/user/78550dca-4a74-4d83-a3bd-28b964bd4a2c.svg">
 
 
 
