@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-```
+```java
 public class main{
     public static void main(String[] args){
         System.out.println("鸡你太美🐔")
