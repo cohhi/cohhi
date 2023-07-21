@@ -33,7 +33,6 @@ public class main{
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=steam-404" />
 </div>
 
-![Snake animation](https://github.com/steam-404/steam-404/blob/output/github-contribution-grid-snake.svg)
  <div>
     <a href="https://411.free.svipss.top/"> 
        <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(ikun);哎呦,你干嘛!&center=true&size=27"> 
