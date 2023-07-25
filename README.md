@@ -13,6 +13,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/steam-404/steam-404/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/steam-404/steam-404/output/github-contribution-grid-snake.svg">
 </picture>
+
 ```java
 public class main{
     public static void main(String[] args){
@@ -31,7 +32,7 @@ public class main{
 </div>
 
 <div>
-    <a href="https://411.free.svipss.top/"> 
+    <a href="https://steam-404.gtihub.io"> 
        <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(ikun);哎呦,你干嘛!&center=true&size=27"> 
     </a>
  </div>
