@@ -19,7 +19,7 @@
 ```java
 public class main{
     public static void main(String[] args){
-        System.out.println("鸡你太美🐔")
+        System.out.println("23年学java,狠狠赚一笔")
     }
 }
 ```
