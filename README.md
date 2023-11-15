@@ -4,10 +4,13 @@
 
 #### Good morning,Squidward Tentacles :smile:
 
+![](.\resources\hahaha.gif)
+
 - 🔭 I’m currently working on Python,Web,spring
 
 - 🌱 I’m currently learning Vue and Spring Boot
   
+
 ![](https://moe-counter.glitch.me/get/@steam-404?theme=gelbooru-h)
 
 <picture>
